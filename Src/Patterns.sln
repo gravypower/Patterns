@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.AbstractFactory", "Patterns.AbstractFactory\Patterns.AbstractFactory.csproj", "{1C150FA4-3EB7-4C7B-B764-0732617F4166}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.AbstractFactory.Tests", "Patterns.AbstractFactory.Tests\Patterns.AbstractFactory.Tests.csproj", "{C7681D6B-C46D-4378-A023-71A3AC6B152D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{1C150FA4-3EB7-4C7B-B764-0732617F4166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C150FA4-3EB7-4C7B-B764-0732617F4166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C150FA4-3EB7-4C7B-B764-0732617F4166}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7681D6B-C46D-4378-A023-71A3AC6B152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7681D6B-C46D-4378-A023-71A3AC6B152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7681D6B-C46D-4378-A023-71A3AC6B152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7681D6B-C46D-4378-A023-71A3AC6B152D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

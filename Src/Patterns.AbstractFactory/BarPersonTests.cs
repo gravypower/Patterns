@@ -1,4 +1,4 @@
-﻿namespace Patterns.AbstractFactory.Tests
+﻿namespace Patterns.AbstractFactory
 {
     using NUnit.Framework;
 
